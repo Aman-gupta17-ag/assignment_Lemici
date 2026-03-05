@@ -1,0 +1,1 @@
+# MoSPI scraper package

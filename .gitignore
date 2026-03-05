@@ -1,0 +1,12 @@
+.env
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.mypy_cache/
+data/raw/pdf/*.pdf
+data/raw/mospi.db
+data/processed/
+ollama/
+*.parquet
